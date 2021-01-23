@@ -1,2 +1,2 @@
-# Go_LeetCode
-go语言实现LeetCode算法集
+# Java_LeetCode
+java语言实现LeetCode算法集
